@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class palindrone_number {
+public class Palindrone_number {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number to check palindrome: ");
